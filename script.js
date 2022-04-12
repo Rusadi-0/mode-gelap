@@ -20,7 +20,3 @@ function modeGelap(){
     trg.style.color= "black";
 
   }
-
-  function hpsHal(){
-      
-  }
