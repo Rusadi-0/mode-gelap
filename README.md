@@ -13,3 +13,9 @@
 7. status kita di dikti sudah mutasi, coba cek sendiri
 
 8. status kita sebagai mahasiswa sari mulia itu sudah terdaftar, coba cek sendiri dikti(contoh "UNIVERSITAS SARI MULIA 'NAMA KAMU'")
+
+
+adit 		11203362220061
+tami		11203362220069
+arsad		11203362220082
+reza	 	11203362220100
